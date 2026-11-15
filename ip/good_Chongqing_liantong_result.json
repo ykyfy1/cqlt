@@ -54,6 +54,15 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
+    "ip_port": "27.9.38.220:8001",
+    "ip": "27.9.38.220",
+    "port": "8001",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+  },
+  {
     "ip_port": "27.9.38.220:8002",
     "ip": "27.9.38.220",
     "port": "8002",
@@ -90,18 +99,9 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.9.76.148:8005",
-    "ip": "27.9.76.148",
+    "ip_port": "27.9.76.184:8005",
+    "ip": "27.9.76.184",
     "port": "8005",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.9.136.120:8002",
-    "ip": "27.9.136.120",
-    "port": "8002",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -270,17 +270,17 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.9.248.199:8001",
-    "ip": "27.9.248.199",
-    "port": "8001",
+    "ip_port": "27.10.5.99:8003",
+    "ip": "27.10.5.99",
+    "port": "8003",
     "version": "",
     "max_client": "",
     "current_conn": "",
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.5.165:8005",
-    "ip": "27.10.5.165",
+    "ip_port": "27.10.5.99:8005",
+    "ip": "27.10.5.99",
     "port": "8005",
     "version": "",
     "max_client": "",
@@ -291,6 +291,15 @@
     "ip_port": "27.10.6.8:8003",
     "ip": "27.10.6.8",
     "port": "8003",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+  },
+  {
+    "ip_port": "27.10.8.248:8001",
+    "ip": "27.10.8.248",
+    "port": "8001",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -324,8 +333,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.77.20:8001",
-    "ip": "27.10.77.20",
+    "ip_port": "27.10.74.39:8001",
+    "ip": "27.10.74.39",
     "port": "8001",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -333,8 +342,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.77.20:8002",
-    "ip": "27.10.77.20",
+    "ip_port": "27.10.74.39:8002",
+    "ip": "27.10.74.39",
     "port": "8002",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -342,8 +351,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.77.20:8003",
-    "ip": "27.10.77.20",
+    "ip_port": "27.10.74.39:8003",
+    "ip": "27.10.74.39",
     "port": "8003",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -351,8 +360,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.77.20:8004",
-    "ip": "27.10.77.20",
+    "ip_port": "27.10.74.39:8004",
+    "ip": "27.10.74.39",
     "port": "8004",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -360,8 +369,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.77.20:8005",
-    "ip": "27.10.77.20",
+    "ip_port": "27.10.74.39:8005",
+    "ip": "27.10.74.39",
     "port": "8005",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -369,8 +378,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.79.81:8001",
-    "ip": "27.10.79.81",
+    "ip_port": "27.10.75.62:8001",
+    "ip": "27.10.75.62",
     "port": "8001",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -378,8 +387,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.79.81:8002",
-    "ip": "27.10.79.81",
+    "ip_port": "27.10.75.62:8002",
+    "ip": "27.10.75.62",
     "port": "8002",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -387,8 +396,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.79.81:8003",
-    "ip": "27.10.79.81",
+    "ip_port": "27.10.75.62:8003",
+    "ip": "27.10.75.62",
     "port": "8003",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -396,8 +405,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.79.81:8004",
-    "ip": "27.10.79.81",
+    "ip_port": "27.10.75.62:8004",
+    "ip": "27.10.75.62",
     "port": "8004",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -405,8 +414,8 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.79.81:8005",
-    "ip": "27.10.79.81",
+    "ip_port": "27.10.75.62:8005",
+    "ip": "27.10.75.62",
     "port": "8005",
     "version": "v. 1.0 Build 25",
     "max_client": "",
@@ -420,7 +429,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.10.95.98:8001",
@@ -477,9 +486,9 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.10.198.113:8005",
-    "ip": "27.10.198.113",
-    "port": "8005",
+    "ip_port": "27.10.198.91:8001",
+    "ip": "27.10.198.91",
+    "port": "8001",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -492,52 +501,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.10.210.236:8001",
-    "ip": "27.10.210.236",
-    "port": "8001",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.10.210.236:8002",
-    "ip": "27.10.210.236",
-    "port": "8002",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.10.210.236:8003",
-    "ip": "27.10.210.236",
-    "port": "8003",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.10.210.236:8004",
-    "ip": "27.10.210.236",
-    "port": "8004",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.10.210.236:8005",
-    "ip": "27.10.210.236",
-    "port": "8005",
-    "version": "v. 1.0 Build 25",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.10.224.3:8002",
@@ -558,22 +522,58 @@
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
   },
   {
-    "ip_port": "27.11.14.36:8002",
-    "ip": "27.11.14.36",
-    "port": "8002",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
     "ip_port": "27.11.39.138:8005",
     "ip": "27.11.39.138",
     "port": "8005",
     "version": "",
     "max_client": "",
     "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.59.205:8001",
+    "ip": "27.11.59.205",
+    "port": "8001",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
     "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+  },
+  {
+    "ip_port": "27.11.59.205:8002",
+    "ip": "27.11.59.205",
+    "port": "8002",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.59.205:8003",
+    "ip": "27.11.59.205",
+    "port": "8003",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.59.205:8004",
+    "ip": "27.11.59.205",
+    "port": "8004",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.59.205:8005",
+    "ip": "27.11.59.205",
+    "port": "8005",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.64.140:8002",
@@ -591,7 +591,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.88.10:8005",
@@ -600,7 +600,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.108.159:8001",
@@ -627,7 +627,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.113.215:8001",
@@ -636,7 +636,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.113.215:8002",
@@ -663,7 +663,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.115.234:8003",
@@ -672,7 +672,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.115.234:8004",
@@ -681,7 +681,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.115.234:8005",
@@ -690,7 +690,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.132.162:8001",
@@ -708,7 +708,16 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.156.235:8001",
+    "ip": "27.11.156.235",
+    "port": "8001",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.179.54:8005",
@@ -717,7 +726,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.190.85:8005",
@@ -726,7 +735,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.200.53:8005",
@@ -735,7 +744,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.219.31:8005",
@@ -744,16 +753,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
-  },
-  {
-    "ip_port": "27.11.227.79:8001",
-    "ip": "27.11.227.79",
-    "port": "8001",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.242.240:8001",
@@ -771,7 +771,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "27.11.244.94:8005",
@@ -780,22 +780,49 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
-    "ip_port": "27.11.255.159:8001",
-    "ip": "27.11.255.159",
+    "ip_port": "27.11.252.239:8001",
+    "ip": "27.11.252.239",
     "port": "8001",
-    "version": "",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | China Unicom Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
-    "ip_port": "58.17.14.54:8004",
-    "ip": "58.17.14.54",
+    "ip_port": "27.11.252.239:8002",
+    "ip": "27.11.252.239",
+    "port": "8002",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.252.239:8003",
+    "ip": "27.11.252.239",
+    "port": "8003",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.252.239:8004",
+    "ip": "27.11.252.239",
     "port": "8004",
-    "version": "",
+    "version": "v. 1.0 Build 25",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "27.11.252.239:8005",
+    "ip": "27.11.252.239",
+    "port": "8005",
+    "version": "v. 1.0 Build 25",
     "max_client": "",
     "current_conn": "",
     "geo": "未知归属地"
@@ -807,7 +834,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.34.92:8002",
@@ -843,7 +870,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.34.253:8002",
@@ -870,7 +897,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.103:8001",
@@ -879,7 +906,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.135:8001",
@@ -888,7 +915,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.175:8001",
@@ -897,7 +924,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.179:8001",
@@ -906,7 +933,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.201:8001",
@@ -915,7 +942,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.212:8001",
@@ -924,7 +951,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.212:8004",
@@ -951,7 +978,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.42.244:8003",
@@ -969,7 +996,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.66.154:8001",
@@ -987,7 +1014,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.73.29:8002",
@@ -1005,7 +1032,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.74.39:8001",
@@ -1014,7 +1041,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.74.76:8001",
@@ -1023,7 +1050,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.74.82:8003",
@@ -1041,7 +1068,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.82.7:8001",
@@ -1068,7 +1095,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.82.183:8002",
@@ -1086,7 +1113,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.82.198:8001",
@@ -1113,7 +1140,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.104.2:8003",
@@ -1167,7 +1194,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.107.174:8001",
@@ -1190,15 +1217,6 @@
   {
     "ip_port": "58.17.117.97:8001",
     "ip": "58.17.117.97",
-    "port": "8001",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "58.17.117.98:8001",
-    "ip": "58.17.117.98",
     "port": "8001",
     "version": "",
     "max_client": "",
@@ -1239,7 +1257,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "江西 南昌 | CNC Group CHINA169 Jiangxi Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.124.18:8001",
@@ -1446,7 +1464,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 杨家坪 | CNC Group CHINA169 Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.138.103:8002",
@@ -1527,7 +1545,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "58.17.148.43:8003",
@@ -1755,8 +1773,8 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.32.21:8005",
-    "ip": "113.205.32.21",
+    "ip_port": "113.205.26.244:8005",
+    "ip": "113.205.26.244",
     "port": "8005",
     "version": "",
     "max_client": "",
@@ -1764,9 +1782,9 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.32.53:8001",
-    "ip": "113.205.32.53",
-    "port": "8001",
+    "ip_port": "113.205.32.21:8005",
+    "ip": "113.205.32.21",
+    "port": "8005",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -1782,8 +1800,17 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.105.73:8005",
-    "ip": "113.205.105.73",
+    "ip_port": "113.205.40.69:8001",
+    "ip": "113.205.40.69",
+    "port": "8001",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
+  },
+  {
+    "ip_port": "113.205.40.69:8005",
+    "ip": "113.205.40.69",
     "port": "8005",
     "version": "",
     "max_client": "",
@@ -1791,9 +1818,36 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.127.7:8002",
-    "ip": "113.205.127.7",
+    "ip_port": "113.205.65.244:8001",
+    "ip": "113.205.65.244",
+    "port": "8001",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
+  },
+  {
+    "ip_port": "113.205.65.244:8002",
+    "ip": "113.205.65.244",
     "port": "8002",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
+  },
+  {
+    "ip_port": "113.205.97.97:8005",
+    "ip": "113.205.97.97",
+    "port": "8005",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
+  },
+  {
+    "ip_port": "113.205.105.73:8005",
+    "ip": "113.205.105.73",
+    "port": "8005",
     "version": "",
     "max_client": "",
     "current_conn": "",
@@ -1863,8 +1917,8 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.168.112:8005",
-    "ip": "113.205.168.112",
+    "ip_port": "113.205.173.103:8005",
+    "ip": "113.205.173.103",
     "port": "8005",
     "version": "",
     "max_client": "",
@@ -1872,17 +1926,8 @@
     "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
   },
   {
-    "ip_port": "113.205.197.244:8005",
-    "ip": "113.205.197.244",
-    "port": "8005",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
-  },
-  {
-    "ip_port": "113.205.199.129:8001",
-    "ip": "113.205.199.129",
+    "ip_port": "113.205.191.208:8001",
+    "ip": "113.205.191.208",
     "port": "8001",
     "version": "",
     "max_client": "",
@@ -1902,15 +1947,6 @@
     "ip_port": "113.205.220.153:8002",
     "ip": "113.205.220.153",
     "port": "8002",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "重庆市 重庆市 | CNC Group CHINA169 Chongqing Province Network"
-  },
-  {
-    "ip_port": "113.205.242.181:8005",
-    "ip": "113.205.242.181",
-    "port": "8005",
     "version": "",
     "max_client": "",
     "current_conn": "",
